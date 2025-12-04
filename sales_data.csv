@@ -1,0 +1,11 @@
+TransactionID,ProductCategory,Region,Quantity,Price
+T1001,Electronics,North,2,1200.00
+T1002,Apparel,South,10,25.50
+T1003,Electronics,East,1,2500.00
+T1004,Software,North,5,99.99
+T1005,Apparel,South,12,30.00
+T1006,Electronics,North,5,500.00
+T1007,Software,East,3,150.00
+T1008,Apparel,West,20,15.00
+T1009,Electronics,East,1,100.00
+T1010,Apparel,North,8,45.00
