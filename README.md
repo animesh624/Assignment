@@ -32,8 +32,6 @@ Below is a screenshot demonstrating the Producer waiting when the queue is full 
 ![Producer Consumer Demo 5](src/main/resources/producerConsumer5.png)
 
 
-Note: If the image above is not visible, please check the screenshots folder in the source code.
-
 📊 Assignment 2: Data Analysis with Streams
 
 Overview
