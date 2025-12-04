@@ -1,6 +1,6 @@
-Java Advanced Concepts: Concurrency & Functional Programming
+Concurrency & Functional Programming
 
-This repository contains the implementations for Assignment 1 (Producer-Consumer Pattern) and Assignment 2 (Data Analysis with Streams). Both projects demonstrate advanced Java capabilities including multi-threading, synchronization, and functional data processing.
+This repository contains the implementations for Assignment 1 (Producer-Consumer Pattern) and Assignment 2 (Data Analysis with Streams).
 
 
 🚀 Assignment 1: Producer-Consumer Pattern
